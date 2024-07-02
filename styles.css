@@ -6,6 +6,9 @@ body {
     height: 100vh;
     margin: 0;
     position: relative;
+    font-size: 20px;
+    line-height: 3em;
+    font-weight: 700;
 }
 
 button {
@@ -27,3 +30,5 @@ button {
     text-align: center;
     background-color: rgb(37, 66, 66);
 }
+
+
